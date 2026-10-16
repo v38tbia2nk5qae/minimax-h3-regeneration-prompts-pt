@@ -1,0 +1,15 @@
+{
+  "id": "MiniMax-H3-Regeneration",
+  "source": "https://apimart.ai/en/pricing",
+  "extracted_at": "2026-10-16T18:05:10Z",
+  "prices": {
+    "default": {
+      "list": 0.0429,
+      "effective": 0.03432
+    }
+  },
+  "rates": {},
+  "unit": "per second",
+  "hook": "from $0.0343 per second on the APIMart route",
+  "model_page": "https://apimart.ai/model/minimax-h3"
+}
